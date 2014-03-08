@@ -5,9 +5,25 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
+  <sprites name="sprites">
+    <sprite>sprites\kamen_bila</sprite>
+    <sprite>sprites\kamen_zluta</sprite>
+    <sprite>sprites\kamen_modra</sprite>
+    <sprite>sprites\kamen_cervena</sprite>
+    <sprite>sprites\kamen_zelena</sprite>
+    <sprite>sprites\kamen_hneda</sprite>
+    <sprite>sprites\kamen_seda</sprite>
+    <sprite>sprites\kamen_cerna</sprite>
+    <sprite>sprites\kamen_prazdno</sprite>
+  </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\pole_R11</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\room0</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
