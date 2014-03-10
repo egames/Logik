@@ -15,11 +15,25 @@
     <sprite>sprites\kamen_seda</sprite>
     <sprite>sprites\kamen_cerna</sprite>
     <sprite>sprites\kamen_prazdno</sprite>
+    <sprite>sprites\true_none</sprite>
+    <sprite>sprites\true_one</sprite>
+    <sprite>sprites\true_always</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\pole_R11</object>
+    <object>objects\pole_R12</object>
+    <object>objects\pole_R13</object>
+    <object>objects\pole_R14</object>
+    <object>objects\pole_R15</object>
+    <object>objects\generator</object>
+    <object>objects\porovnavac</object>
+    <object>objects\kontrola_R11</object>
+    <object>objects\kontrola_R12</object>
+    <object>objects\kontrola_R13</object>
+    <object>objects\kontrola_R14</object>
+    <object>objects\kontrola_R15</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
